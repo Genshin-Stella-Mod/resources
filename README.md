@@ -27,13 +27,13 @@ Users have the option to change this folder. It is recommended that the resource
 The path should also be convenient for the user.
 
 ## 👥 Collaboration
-If you'd like to add your preset to the Stella Mod Resources, please create a new [Pull request](https://github.com/sefinek/Stella-Mod-Resources/pulls).
+If you'd like to add your preset to the Stella Mod Resources, please create a new [Pull request](https://github.com/Genshin-Stella-Mod/resources/pulls).
 Your contribution will be greatly appreciated (:
 
 > [!WARNING]  
 > MAKE SURE YOU HAVE PLACED THE PRESET IN THE CORRECT PATH!
 > ADDITIONALLY, FILES MUST FOLLOW THE PROPER NAMING CONVENTIONS!
-> BE SURE TO READ THE RULES AVAILABLE [HERE](https://github.com/sefinek/Stella-Mod-Resources/tree/main/public/resources/ReShade/Presets/1.%20Made%20by%20community).
+> BE SURE TO READ THE RULES AVAILABLE [HERE](https://github.com/Genshin-Stella-Mod/resources/tree/main/public/resources/ReShade/Presets/1.%20Made%20by%20community).
 > FAILURE TO FOLLOW THE RULES MAY RESULT IN YOUR PULL REQUEST BEING REJECTED!
 
 

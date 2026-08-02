@@ -14,4 +14,4 @@ Here are some example preset names that adhere to the naming conventions:
 2. sefinek/HDR.ini
 
 ### » How to Create a Pull Request?
-For detailed instructions on how to create a Pull Request, please visit [this url](https://github.com/sefinek/Stella-Mod-Resources#-collaboration).
+For detailed instructions on how to create a Pull Request, please visit [this url](https://github.com/Genshin-Stella-Mod/resources#-collaboration).
